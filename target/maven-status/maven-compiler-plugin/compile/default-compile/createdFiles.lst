@@ -1,0 +1,13 @@
+com\mycompany\swing\config\ConexaoMySQLInit.class
+com\mycompany\swing\dominio\Leitura.class
+com\mycompany\swing\dominio\entidades\Table.class
+com\mycompany\swing\dominio\entidades\Notebook.class
+com\mycompany\swing\dominio\Usuario.class
+com\mycompany\swing\config\ConexaoMySQL.class
+com\mycompany\swing\config\ConexaoSQLServer.class
+com\mycompany\swing\dominio\entidades\Alerta.class
+com\mycompany\swing\app.class
+com\mycompany\swing\app$1.class
+com\mycompany\swing\dominio\entidades\Usuario.class
+com\mycompany\swing\repositorio\LeituraRepositorio.class
+com\mycompany\swing\dominio\entidades\Empresa.class
